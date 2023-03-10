@@ -1,0 +1,13 @@
+HOW TO USE DragonX 1.8.8
+
+R: Fly
+
+Aimbot + Kill Aura: H
+
+Remove fall damage: N
+
+X-Ray: X
+
+Perm night vision: B
+
+Optifine: C
